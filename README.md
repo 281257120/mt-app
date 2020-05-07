@@ -1,21 +1,7 @@
-# mt-app
+本连接内容为 美团项目vue2.0源码
+下载资源后需
+npm init    初始化
+npm install 同步下载所需插件
+npm run dev 运行dev脚本可在本地服务器下预览
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+加油！加油！加油！
